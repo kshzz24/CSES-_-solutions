@@ -1,0 +1,1 @@
+{"name":"Local: missing-coin","url":"c:\\Users\\hp\\OneDrive\\Desktop\\cses problemset\\missing-coin.cpp","tests":[{"id":1711469388656,"input":"5\n4 2 1 5 3","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\hp\\OneDrive\\Desktop\\cses problemset\\missing-coin.cpp","group":"local","local":true}

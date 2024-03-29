@@ -1,0 +1,1 @@
+{"name":"Local: 3-sum","url":"c:\\Users\\hp\\OneDrive\\Desktop\\cses problemset\\3-sum.cpp","tests":[{"id":1711703354032,"input":"4 8\n2 7 5 1","output":"1 3 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\hp\\OneDrive\\Desktop\\cses problemset\\3-sum.cpp","group":"local","local":true}
